@@ -1,6 +1,5 @@
 DemoApp::Application.routes.draw do
   resources :microposts
-#the resources :microposts routing rule maps micropost URIs to actions in the Microposts controller,
 
   resources :users
 
